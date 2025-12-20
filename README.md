@@ -6,7 +6,8 @@ A production application deployed on Google Play with a lifecycle of approximate
 <br><br><br>
 
 <a href="https://www.youtube.com/watch?v=VMenfoXS1x8">
-  <img src="youtube_preview.png" width="100%" height="200">
+  <img src="youtube_preview.png" width="100%" height="200"
+       style="object-fit:cover;">
 </a>
 
 <br><br><br>
