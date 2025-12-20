@@ -5,9 +5,11 @@ A production application deployed on Google Play with a lifecycle of approximate
 
 <br><br><br>
 
-<a href="https://www.youtube.com/watch?v=VMenfoXS1x8">
-  <h3>Video</h3>
-</a>
+<h3>
+  <a href="https://www.youtube.com/watch?v=VMenfoXS1x8">
+    Video
+  </a>
+</h3>
 
 <br><br><br>
 
