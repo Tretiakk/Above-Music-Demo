@@ -2,7 +2,7 @@
 <img src="christmas_icon.png" width="64" height="64">
 A production application deployed on Google Play with a lifecycle of approximately two years. This timeline includes 1.5 years of development and 6 months of active maintenance, resulting in 40+ updates. Beyond local playback, the system functions as a cloud-integrated platform with custom user management, synchronization, and an integrated monetization system (AdMob).
 
-<br>
+<br><br>
 
 The app was created aiming to deliver the best user experience in Play Market, besides strong media player features the app contains it’s own points (tokens) system, authentication menu, news menu with favorite music, but again main focus was made for convenience and relaxation, the app contains animations almost everywhere, custom explanation (training) system, custom search and sorting system and some small features
 
