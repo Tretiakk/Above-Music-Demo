@@ -56,3 +56,7 @@ Music 2 main menu
 
 <img src="Alpha_2.png" alt="" width="500">
 
+Music 2 screens in Figma design file
+<img src="Figma_Music_2.png" alt="">
+
+
