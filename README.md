@@ -37,7 +37,7 @@ Part of Music screens in Figma design file
 <img src="Figma_Music.png" alt="">
 
 <br>
-Music main menu
+Music Menu
 
 <img src="Beta_1.png" alt="" width="500">
 
@@ -52,7 +52,7 @@ Since February 2024, initiated a rewrite to improve scalability. Migrated from a
 Kotlin, Jetpack Compose, Clean Architecture, MVVM, ExoPlayer, MediaStore API, Coroutines, Flow, AnimatedVectorDrawable
 
 <br>
-Music 2 main menu
+Music 2 Menu (Redesign)
 
 <img src="Alpha_2.png" alt="" width="500">
 
