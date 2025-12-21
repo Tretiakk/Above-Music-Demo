@@ -4,7 +4,7 @@ A production application deployed on Google Play with a lifecycle of approximate
 
 <br><br>
 
-The app was created aiming to deliver the best user experience in Play Market, besides strong media player features the app contains it’s own points (tokens) system, authentication menu, news menu with favorite music, but again main focus was made for convenience and relaxation, the app contains animations almost everywhere, custom explanation (training) system, custom search and sorting system and some small features
+Engineered to deliver a superior UX, the application integrates media player features with a custom token economy, authentication, and a personalized news feed. The interface prioritizes fluidity through system-wide animations and a custom onboarding 'training' module, supported by advanced search and sorting algorithms for efficient library management
 
 <br>
 
@@ -17,6 +17,6 @@ The app was created aiming to deliver the best user experience in Play Market, b
 <br>
 
 Tech Stack:
-Firebase (Analytics, Crashlytics, Auth, Database, Storage), Registration (OAuth or custom), Media3, ExoPlayer , RxJava, DataStore, Gestures, BroadcastReceiver (MediaButtonReceiver), Fragments, Foreground Service, Work with UI Classes (VectorDrawable, Drawable, LayerDrawable Android Animations API,  AnimatedVectorDrawable (AVD))
+Java, XML, ExoPlayer, Media3, MediaStore API, Foreground Service, Firebase (Auth, Realtime DB, Storage, Crashlytics), Multithreading, DataStore, RxJava, Google Cloud OAuth 2.0, MediaMetadataRetriever, AnimatedVectorDrawable, Android Animations API
 
 <br>
