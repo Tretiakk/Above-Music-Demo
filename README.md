@@ -9,7 +9,7 @@ A production application deployed on Google Play with a lifecycle of approximate
     Google Play
   </a>
 </h3>
-Note: This production build dates back to early 2024. Recent maintenance updates were limited to compliance requirements
+Note: This production build dates back 2 years. Recent maintenance updates were limited to compliance requirements
 
 <br>
 
