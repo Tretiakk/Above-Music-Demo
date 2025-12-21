@@ -34,7 +34,7 @@ Java, XML, ExoPlayer, Media3, MediaStore API, Foreground Service, Firebase (Auth
 <br>
 Part of Music screens in Figma design file
 
-<img src="Figma_Music_Screens.png" alt="">
+<img src="Figma_Music.png" alt="">
 
 <br>
 Music main menu
