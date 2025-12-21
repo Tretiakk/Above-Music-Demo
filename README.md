@@ -2,7 +2,15 @@
 <img src="christmas_icon.png" width="64" height="64">
 A production application deployed on Google Play with a lifecycle of approximately two years. This timeline includes 1.5 years of development and 6 months of active maintenance, resulting in 40+ updates. Beyond standard music player features, the system functions as a cloud-integrated platform with authentication, and an integrated monetization
 
-<br><br>
+<br>
+
+<h3>
+  <a href="https://play.google.com/store/apps/details?id=com.above.music">
+    Google Play
+  </a>
+</h3>
+
+<br>
 
 ### Features
 
