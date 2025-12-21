@@ -9,6 +9,7 @@ A production application deployed on Google Play with a lifecycle of approximate
     Google Play
   </a>
 </h3>
+Note: This production build dates back to early 2024. Recent maintenance updates were limited to compliance requirements
 
 <br>
 
@@ -29,6 +30,10 @@ Java, XML, ExoPlayer, Media3, MediaStore API, Foreground Service, Firebase (Auth
     Video
   </a>
 </h3>
+
+<br>
+(Part of Music (Beta) screens in Figma design file)
+<img src="Figma_Music_Screens.png" alt="">
 
 <br>
 
