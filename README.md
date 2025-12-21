@@ -25,19 +25,19 @@ Java, XML, ExoPlayer, Media3, MediaStore API, Foreground Service, Firebase (Auth
 
 <br>
 
-<h3>
+<h2>
   <a href="https://www.youtube.com/watch?v=VMenfoXS1x8">
     Video
   </a>
-</h3>
+</h2>
 
 <br>
-Music UI (Legacy Overview)
+### Music UI (Legacy Overview)
 
 <img src="Figma_Music.png" alt="">
 
 <br>
-Music Menu
+### Music Menu
 
 <img src="Beta_1.png" alt="" width="500">
 
@@ -52,11 +52,11 @@ Since February 2024, initiated a rewrite to improve scalability. Migrated from a
 Kotlin, Jetpack Compose, Clean Architecture, MVVM, ExoPlayer, MediaStore API, Coroutines, Flow, AnimatedVectorDrawable
 
 <br>
-Music Menu (Redesign)
+### Music Menu (Redesign)
 
 <img src="Alpha_2.png" alt="" width="500">
 
-Music UI (Redesign Overview)
+### Music UI (Redesign Overview)
 <img src="Figma_Music_2.png" alt="">
 
 
