@@ -24,7 +24,7 @@ Java, XML, ExoPlayer, Media3, MediaStore API, Foreground Service, Firebase (Auth
 
 <br>
 
-<img src="Beta_1.png" alt="">
+<img src="Beta_1.png" alt="" width="500">
 
 <br>
 
@@ -38,5 +38,5 @@ Kotlin, Jetpack Compose, Clean Architecture, MVVM, ExoPlayer, MediaStore API, Co
 
 <br>
 
-<img src="Alpha_2.png" alt="">
+<img src="Alpha_2.png" alt="" width="500">
 
