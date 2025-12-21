@@ -32,7 +32,7 @@ Java, XML, ExoPlayer, Media3, MediaStore API, Foreground Service, Firebase (Auth
 </h3>
 
 <br>
-Part of Music screens in Figma design file
+Music UI (Legacy Overview)
 
 <img src="Figma_Music.png" alt="">
 
@@ -52,11 +52,11 @@ Since February 2024, initiated a rewrite to improve scalability. Migrated from a
 Kotlin, Jetpack Compose, Clean Architecture, MVVM, ExoPlayer, MediaStore API, Coroutines, Flow, AnimatedVectorDrawable
 
 <br>
-Music 2 Menu (Redesign)
+Music Menu (Redesign)
 
 <img src="Alpha_2.png" alt="" width="500">
 
-Music 2 screens in Figma design file
+Music UI (Redesign Overview)
 <img src="Figma_Music_2.png" alt="">
 
 
