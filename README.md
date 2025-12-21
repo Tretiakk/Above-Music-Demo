@@ -24,7 +24,7 @@ Java, XML, ExoPlayer, Media3, MediaStore API, Foreground Service, Firebase (Auth
 
 <br>
 
-![Beta_1.png]{}
+![]{Beta_1.png}
 
 <br>
 
@@ -33,11 +33,11 @@ Since February 2024, initiated a rewrite to improve scalability. Migrated from a
 
 <br>
 
-Tech Stack:
+**Tech Stack:** <br>
 Kotlin, Jetpack Compose, Clean Architecture, MVVM, ExoPlayer, MediaStore API, Coroutines, Flow, AnimatedVectorDrawable
 
 <br>
 
-![Alpha_1.png]{}
+![]{Alpha_1.png}
 
 
