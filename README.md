@@ -16,7 +16,7 @@ Engineered to deliver a superior UX, the application integrates media player fea
 
 <br>
 
-Tech Stack:
+**Tech Stack:** <br>
 Java, XML, ExoPlayer, Media3, MediaStore API, Foreground Service, Firebase (Auth, Realtime DB, Storage, Crashlytics), Multithreading, DataStore, RxJava, Google Cloud OAuth 2.0, MediaMetadataRetriever, AnimatedVectorDrawable, Android Animations API
 
 <br>
