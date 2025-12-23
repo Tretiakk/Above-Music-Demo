@@ -54,7 +54,7 @@ Since February 2024, initiated a rewrite to improve scalability. Migrated from a
 <br>
 
 **Tech Stack:** <br>
-Kotlin, Jetpack Compose, Clean Architecture, MVVM, ExoPlayer, MediaStore API, Coroutines, Flow, AnimatedVectorDrawable
+Kotlin, Jetpack Compose, Clean Architecture, MVVM, ExoPlayer, MediaStore API, Coroutines, Flow, Hilt, JUnit, Mockito, AnimatedVectorDrawable
 
 <br>
 
