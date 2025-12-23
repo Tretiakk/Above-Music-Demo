@@ -64,3 +64,25 @@ Kotlin, Jetpack Compose, Clean Architecture, MVVM, ExoPlayer, MediaStore API, Co
 <img src="Figma_Music_2.png" alt="">
 
 
+See my other projects!
+<h5>
+  <a href="https://github.com/Tretiakk/Cap-Taxi-Demo">
+    Cap Taxi (Ride-Hailing App)
+  </a>
+</h5>
+<h5>
+  <a href="https://github.com/Tretiakk/Aqua-AI-Demo">
+    Aqua AI (OpenAI Client)
+  </a>
+</h5>
+<h5>
+  <a href="https://github.com/Tretiakk/Anyalen-Demo">
+    Anyalen (Agency MVP)
+  </a>
+</h5>
+<h5>
+  <a href="https://github.com/Tretiakk/Weather-Demo">
+    Weather (Location-Aware Forecast)
+  </a>
+</h5>
+
